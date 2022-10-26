@@ -1,0 +1,13 @@
+* {
+  background-color: black;
+}
+.logo_img {
+  margin: auto;
+  width: 40%;
+}
+.nav-bar {
+  display: flex;
+}
+.social_container {
+  max-width: 30px;
+}
