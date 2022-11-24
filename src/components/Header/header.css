@@ -7,6 +7,7 @@
 }
 .nav-bar {
   display: flex;
+  gap: 10px;
 }
 .social_container {
   max-width: 30px;
